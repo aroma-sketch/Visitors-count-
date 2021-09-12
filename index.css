@@ -1,0 +1,39 @@
+
+body{
+    justify-content: center;
+    align-items: center;
+    font-family:'Muli' , sans-serif;
+    display: flex;
+    flex-direction: column;
+    color:white;
+    height: 80vh;
+    background: linear-gradient(
+        90deg,
+        rgba(93, 12, 255, 1) 0%,
+        rgba(155, 0, 250, 1) 100%
+      );
+}
+p{
+    letter-spacing: 2px;
+    margin: 0px;
+}
+h1{
+    margin: 0;
+    font-size: 50px;
+}
+span{
+    font-size: 50px;
+    background: linear-gradient(
+        145deg
+        ,#f81f01,#f32170,#2196f3);
+       background: linear-gradient(to right, #f32170,#ffeb07 ,#2196f3);
+       -webkit-text-fill-color: transparent;
+       -webkit-background-clip: text;
+       font-family: 'Allison', cursive;
+       padding: 0 10px;
+       
+ }
+ div{
+     padding-bottom: 40px;
+     
+ }
