@@ -1,3 +1,3 @@
 # Visitors-counter👩‍💻
-* it counts the number of peoplr opened this page !
+* it counts the number of people opened this page !
 *   https://aroma-sketch.github.io/Visitors-count-/
